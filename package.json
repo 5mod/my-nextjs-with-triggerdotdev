@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@trigger.dev/sdk": "latest",
+    "@trigger.dev/sdk": "4.0.0-v4-beta.22",
     "next": "15.3.5",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
@@ -17,7 +17,7 @@
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
-    "@trigger.dev/build": "latest",
+    "@trigger.dev/build": "4.0.0-v4-beta.22",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
@@ -25,6 +25,5 @@
     "eslint-config-next": "15.3.5",
     "tailwindcss": "^4",
     "typescript": "^5"
-  },
-  "packageManager": "yarn@3.8.7"
+  }
 }
